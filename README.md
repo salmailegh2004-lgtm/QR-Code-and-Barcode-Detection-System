@@ -1,1 +1,0 @@
-# QR-Code-and-Barcode-Detection-System
